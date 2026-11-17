@@ -1,0 +1,1 @@
+Report screenshots used in the main README.

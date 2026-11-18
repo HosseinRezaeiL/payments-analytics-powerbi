@@ -1,0 +1,7 @@
+# Raw and generated data
+data/
+*.csv
+
+# Power BI local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
